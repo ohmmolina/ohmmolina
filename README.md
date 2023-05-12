@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working at <a href="https://www.linkedin.com/company/vlim-tic/mycompany/"> <img src="https://www.vlim.com.mx/assets/demo/icon/VLIM_ti.png" width="15px"> VLIM TIC</a>
 
-- 🌱 I’m currently learning **<img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" width="20px"> Docker, <img src="https://www.freelogovectors.net/wp-content/uploads/2022/01/prisma_logo-freelogovectors.net_.png" width="14px"> Prisma, <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="16px"> MongoDB and Japanese 🇯🇵**
+- 🌱 I’m currently learning **<img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" width="20px"> Docker, <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="16px"> MongoDB and Japanese 🇯🇵**
 
 - 👯 I’m looking to collaborate as a **frontend or fullstack developer**
 
