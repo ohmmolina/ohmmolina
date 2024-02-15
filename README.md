@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Omar!</h1>
 <h3 align="center">I'm a web developer specialized in Vue!</h3>
 
-- 🔭 I’m currently working at <a href="https://www.linkedin.com/company/vlim-tic/mycompany/"> <img src="https://www.vlim.com.mx/assets/demo/icon/VLIM_ti.png" width="15px"> VLIM TIC</a>
+- 🔭 I’m currently working at <a href="https://mx.linkedin.com/company/gcsi-mx"> <img src="https://www.grupocsi.com/hubfs/202212_Mailing/NPS%205/Mail%202/favicon.ico" width="15px"> GRUPO CSI</a>
 
-- 🌱 I’m currently learning **<img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" width="20px"> Docker, <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="16px"> MongoDB and Japanese 🇯🇵**
+- 🌱 I’m currently learning **<img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" width="20px"> Docker, <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="16px"> MongoDB and Japanese 🗾**
 
 - 👯 I’m looking to collaborate as a **frontend or fullstack developer**
 
